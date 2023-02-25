@@ -83,7 +83,7 @@ h1, h2, h3 {
   padding-bottom: 20px;
 }
 
-p{
+p {
   margin: 10px 0;
 }
 
@@ -155,7 +155,7 @@ p{
 #home-info .info-img {
   float: left;
   width: 50%;
-  background: url('../images/person-1.jpg') no-repeat center top/cover; 
+  background: url('../images/photo-1.jpg') no-repeat center center/cover; 
   min-height: 100%;
 }
 
