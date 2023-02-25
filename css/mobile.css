@@ -43,3 +43,17 @@
 #about-info .info-right {
   margin-top: 30px;
 }
+
+#contact-info, .box {
+  border-bottom: #444 dotted 1px;
+}
+
+/* showcase */
+#showcase {
+  height: 100%;
+}
+
+#showcase .showcase-content {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
